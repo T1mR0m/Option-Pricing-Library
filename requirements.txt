@@ -1,3 +1,8 @@
 numpy
+pandas
 yfinance
+arch
+urllib3<2.0.0
+nbformat>=4.2.0
+plotly
 scipy
